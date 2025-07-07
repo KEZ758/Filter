@@ -17,7 +17,6 @@
 
   <build>
     <plugins>
-      <!-- Плагин для указания точки входа в jar -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
